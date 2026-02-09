@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**tiagoruivo10/tiagoruivo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Tiago Ruivo, sou um Programador Front End, atualmente estou criando projetos com:
 
-Here are some ideas to get you started:
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+<br>
+Connect whit me: 
+<p>
+  <a href="https://www.instagram.com/t_ruivo/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tiago-santarem-ruivo-71b9a4232/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" />
+  </a>
+</p>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=tiagoruivo10&show_icons=true&theme=github_dark" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoruivo10&layout=compact&theme=github_dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
