@@ -38,6 +38,22 @@ desenvolvimento — frontend ao backend — transformando ideias em apliações 
 
 <br>
 
+## 💻 Projetos em Destaque
+
+### 🍔 DevBurger (FullStack)
+Plataforma completa de delivery para hamburgueria. Conta com painel administrativo, carrinho de compras e integração de pagamentos reais com Stripe.
+* **Stack:** React, Node.js, PostgreSQL, MongoDB, JWT.
+* [🔗 Ver Aplicação Online](#) | [📦 Repositório Frontend](link) | [⚙️ Repositório API](link)
+
+  <br>
+
+### 💰 DevBills (FullStack)
+Sistema de controle e gestão financeira pessoal.
+* **Stack:** TypeScript, Fastify, Prisma, React.
+* [🔗 Ver Aplicação Online](#) | [📦 Repositório Frontend](link) | [⚙️ Repositório API](link)
+
+  <br>
+
 ### 🤝 Connect with me:
 
 * 💼 [Linkedin](https://www.linkedin.com/in/tiagooruivo/)
