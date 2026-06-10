@@ -40,6 +40,6 @@ desenvolvimento — frontend ao backend — transformando ideias em apliações 
 
 ### 🤝 Connect with me:
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/tiagooruivo/)
+* 💼 [Linkedin](https://www.linkedin.com/in/tiagooruivo/)
 * ✉️ Email: [tiagosantarim2017@gmail.com](mailto:tiagosantarim2017@gmail.com)
 * 🌐 [Portfólio](https://seu-portfolio.com)
