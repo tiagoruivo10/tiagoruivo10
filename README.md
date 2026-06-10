@@ -13,17 +13,14 @@ Eu sou o Tiago Ruivo, sou um Programador FullStack, focado em construir interfac
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </div>
 <br>
-Connect whit me: 
-<p>
-  <a href="https://www.instagram.com/t_ruivo/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tiago-santarem-ruivo-71b9a4232/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" />
-  </a>
-</p>
-<br>
+### 🤝 Connect with me:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tiagooruivo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=tiagoruivo10&show_icons=true&theme=github_dark" />
 <br>
 <br>
