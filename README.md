@@ -3,7 +3,7 @@
 ### 🚀 Sobre Mim:
 
 Sou um *Programador FullStack* focado em construir interfaces modernas, responsivas e de alta performance. Com expêriencia em todo o ciclo de
-desenvolvimento — frontend ao backend — tranformando ideias em apliações reais.
+desenvolvimento — frontend ao backend — transformando ideias em apliações reais.
 
 ### 💻 Tecnologias e Ferramentas
 
