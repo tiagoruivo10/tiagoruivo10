@@ -29,18 +29,18 @@ desenvolvimento — frontend ao backend — tranformando ideias em apliações r
 
 <br>
 
+### 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiagoruivo10&show_icons=true&theme=github_dark" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoruivo10&layout=compact&theme=github_dark" />
+
+<br>
+
 ### 🤝 Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tiagooruivo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tiagosantarim2017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
-
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=tiagoruivo10&show_icons=true&theme=github_dark" />
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoruivo10&layout=compact&theme=github_dark" />
-
-
-
