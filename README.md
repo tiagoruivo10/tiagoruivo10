@@ -40,8 +40,6 @@ desenvolvimento — frontend ao backend — transformando ideias em apliações 
 
 ## 💻 Projetos em Destaque
 
-## 💻 Projetos em Destaque
-
 ### 🍔 DevBurger (FullStack)
 Plataforma completa de delivery para hamburgueria. Conta com painel administrativo, carrinho de compras e integração de pagamentos reais com Stripe.
 * **Stack:** React, Node.js, PostgreSQL, MongoDB, JWT.
