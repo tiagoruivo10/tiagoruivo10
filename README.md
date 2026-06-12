@@ -54,12 +54,12 @@ Sistema de controle e gestão financeira pessoal.
 
 Aplicação para consulta meteorológica em tempo real com análises inteligentes. O projeto destaca o consumo de APIs externas para entregar dados precisos de clima e insights dinâmicos gerados por Inteligência Artificial.
 * **Stack:** JavaScript, OpenWeatherMap API, Groq AI.
-* 🔗 [Ver Aplicação Online](#) | 📦 [Repositório do Projeto](https://github.com/tiagoruivo10/app-previsao-do-tempo)
+* 🔗 [Ver Aplicação Online](https://app-previsao-do-tempo-theta.vercel.app/) | 📦 [Repositório do Projeto](https://github.com/tiagoruivo10/app-previsao-do-tempo)
   
 ### 🎬 Catálogo de Filmes (FrontEnd)
 Plataforma interativa para exploração de filmes, tendências e avaliações. O sistema consome uma API externa para popular a interface com cartazes, sinopses e notas do cinema de forma totalmente dinâmica.
 * **Stack:** React, API REST, JavaScript.
-* 🔗 [Ver Aplicação Online](#) | 📦 [Repositório do Projeto](https://github.com/tiagoruivo10/projeto-filmes-react)
+* 🔗 [Ver Aplicação Online](https://projeto-filmes-eosin.vercel.app/) | 📦 [Repositório do Projeto](https://github.com/tiagoruivo10/projeto-filmes-react)
 
   <br>
 
