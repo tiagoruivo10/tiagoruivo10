@@ -2,8 +2,8 @@
 
 ### 🚀 Sobre Mim:
 
-Sou um *Programador FullStack* focado em construir interfaces modernas, responsivas e de alta performance. Com expêriencia em todo o ciclo de
-desenvolvimento — frontend ao backend — transformando ideias em apliações reais.
+Sou um *Programador FullStack* focado em construir interfaces modernas, responsivas e de alta performance. Com experiência em todo o ciclo de
+desenvolvimento — frontend ao backend — transformando ideias em aplicações reais.
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -14,6 +14,7 @@ desenvolvimento — frontend ao backend — transformando ideias em apliações 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
 ### Backend & Bancos de Dados
