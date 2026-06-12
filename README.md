@@ -50,6 +50,17 @@ Sistema de controle e gestão financeira pessoal.
 * **Stack:** TypeScript, Fastify, Prisma, React.
 * [🔗 Ver Aplicação Online](https://tiago-devbills.vercel.app/) | [📦 Repositório Frontend](https://github.com/tiagoruivo10/FrontEnd---devBills) | [⚙️ Repositório API](https://github.com/tiagoruivo10/API-devBills)
 
+### 🌤️ App Previsão do Tempo (FrontEnd)
+
+Aplicação para consulta meteorológica em tempo real com análises inteligentes. O projeto destaca o consumo de APIs externas para entregar dados precisos de clima e insights dinâmicos gerados por Inteligência Artificial.
+* **Stack:** JavaScript, OpenWeatherMap API, Groq AI.
+* 🔗 [Ver Aplicação Online](#) | 📦 [Repositório do Projeto](#)
+  
+### 🎬 Catálogo de Filmes (FrontEnd)
+Plataforma interativa para exploração de filmes, tendências e avaliações. O sistema consome uma API externa para popular a interface com cartazes, sinopses e notas do cinema de forma totalmente dinâmica.
+* **Stack:** React, API REST, JavaScript.
+* 🔗 [Ver Aplicação Online](#) | 📦 [Repositório do Projeto](#)
+
   <br>
 
 ### 🤝 Connect with me:
